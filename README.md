@@ -6,6 +6,7 @@ I also have experience with the C# language and the WPF framework,
 which allows me to create robust and intuitive desktop applications.
 I am open to collaborating on projects related to web design and development,
 as well as projects involving C# and WPF. Feel free to contact me if you'd like to collaborate or discuss exciting projects
+linkedIn: https://www.linkedin.com/in/dev205/
 
 <!---
 Dev205Mg/Dev205Mg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
