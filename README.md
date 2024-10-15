@@ -1,4 +1,4 @@
-##- 👋 Hi, I’m @Dev205Mg
+## 👋 Hi, I’m @Dev205Mg
 I am a web developer specializing in **PHP/Laravel** and a web designer using **Adobe XD**.
 I have a passion for creating attractive and functional user interfaces.
 In addition to my web development skills,
