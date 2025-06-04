@@ -51,6 +51,6 @@ I blend **creativity** with **pragmatism** to:
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev205Mg&layout=compact&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide=html,css,scss)](https://github.com/Dev205Mg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev205Mg&theme=vue&show_icons=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev205Mg&layout=compact&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide=html,css,scss)](https://github.com/Dev205Mg)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev205Mg&theme=vue&show_icons=true&include_all_commits=true&count_private=true)](https://git.io/streak-stats)<br>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev205Mg&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Dev205Mg)
