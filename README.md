@@ -48,3 +48,4 @@ I blend **creativity** with **pragmatism** to:
 ![Inertia](https://img.shields.io/badge/Inertia-9553e9?style=for-the-badge&logo=inertia&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev205Mg&layout=compact&theme=vue)](https://github.com/Dev205Mg)
