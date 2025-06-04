@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yaël R.
+### 👋 Hi, I’m Yaël R.
 # 👨‍💻 FullStack Developer | Laravel | Vue.js | WordPress Specialist
 
 **Passionate about crafting high-performance web applications**  
