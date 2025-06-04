@@ -48,4 +48,9 @@ I blend **creativity** with **pragmatism** to:
 ![Inertia](https://img.shields.io/badge/Inertia-9553e9?style=for-the-badge&logo=inertia&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev205Mg&layout=compact&theme=vue)](https://github.com/Dev205Mg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dev205Mg&theme=vue)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev205Mg&show_icons=true&theme=vue)](https://github.com/Dev205Mg)
