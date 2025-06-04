@@ -33,7 +33,7 @@ I blend **creativity** with **pragmatism** to:
 
 💡 **Continuously upskilling** in JavaScript ecosystems (React, Nuxt) and serverless architectures.
 
-📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/dev205/) | [email](contact@dev205.mg)
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/dev205/) | [contact@dev205.mg]
 🔗 **Portfolio**: [dev205](https://dev205.mg)
 
 ---
