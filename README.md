@@ -33,7 +33,7 @@ I blend **creativity** with **pragmatism** to:
 
 💡 **Continuously upskilling** in JavaScript ecosystems (React, Nuxt) and serverless architectures.
 
-📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/dev205/)] | [email](contact@dev205.mg)
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/dev205/) | [email](contact@dev205.mg)
 🔗 **Portfolio**: [dev205](https://dev205.mg)
 
 ---
@@ -44,3 +44,7 @@ I blend **creativity** with **pragmatism** to:
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-fb70a9?style=for-the-badge&logo=livewire&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia-9553e9?style=for-the-badge&logo=inertia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
